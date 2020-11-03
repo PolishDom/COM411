@@ -1,4 +1,4 @@
-def observed():
+ def observed():
   observations = []
   for objects in range(7):
     observation = input("Please enter an observation: ")
